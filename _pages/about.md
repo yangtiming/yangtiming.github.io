@@ -14,22 +14,22 @@ Prior to this, I earned my Bachelor of Science in Electronic Information Enginee
 
 EDUCATION
 ======
-**MS-University of Southern California, Los Angeles, United States**  
+* **MS-University of Southern California, Los Angeles, United States**  
   *08/2023-06/2025*  
   GPA: 4.0/4.0
 
-**BS-Dalian University of Technology, Dalian, China**  
+* **BS-Dalian University of Technology, Dalian, China**  
   *09/2018-07/2022*  
   GPA: 87/100
 
 
 Hightlight Research
 ======
-**Interpreting Mamba**  
+* **Interpreting Mamba**  
 **Timing Yang**, [Feng Wang](https://wangf3014.github.io/home/), [Jieru Mei](https://meijieru.com), [Alan Yuille](https://www.cs.jhu.edu/~ayuille/).  
 *Target CVPR2025.* ([arxiv] / [code])
 
-**Open Vocabulary 3D Object Detection**  
+* **Open Vocabulary 3D Object Detection**  
 **Timing Yang\***, [Yuanliang Ju\*](https://x.com/averyjuuu0213), [Li Yi](https://ericyi.github.io).  
 *Submitted to NeurIPS 2024.* ([arxiv] / [code])
 
