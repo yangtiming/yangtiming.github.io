@@ -6,7 +6,7 @@
 
 main:
   - title: "Home"
-    url: https://yangtiming.github.io
+    url: /about/
   - title: "CV"
     url: /cv/
   
