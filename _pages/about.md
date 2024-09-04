@@ -30,12 +30,12 @@ Selected Publications
 **Interpreting Mamba**  
 **Timing Yang**, [Feng Wang](https://wangf3014.github.io/home/), [Jieru Mei](https://meijieru.com), [Alan Yuille](https://www.cs.jhu.edu/~ayuille/).  
 *Target CVPR2025*
-[arxiv](#) / [code](#)
+([arxiv] / [code])
 
 **Open Vocabulary 3D Object Detection**  
 **Timing Yang\***, [Yuanliang Ju\*](https://x.com/averyjuuu0213), [Li Yi](https://ericyi.github.io).  
 *Submitted to NeurIPS 2024*  
-[arxiv](#) / [code](#)
+([arxiv] / [code])
 
 
 
