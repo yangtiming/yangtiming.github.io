@@ -23,7 +23,7 @@ EDUCATION
   GPA: 87/100
 
 
-Selected Publications
+Hightlight Research
 ======
 **Interpreting Mamba**  
 **Timing Yang**, [Feng Wang](https://wangf3014.github.io/home/), [Jieru Mei](https://meijieru.com), [Alan Yuille](https://www.cs.jhu.edu/~ayuille/).  
