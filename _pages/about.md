@@ -15,14 +15,14 @@ Prior to this, I earned my Bachelor of Science in Electronic Information Enginee
 EDUCATION
 ======
 **University of Southern California, Los Angeles, United States**  
-&nbsp;&nbsp;&nbsp;&nbsp;*08/2023-06/2025*  
-&nbsp;&nbsp;&nbsp;&nbsp;**MS – Machine Learning and Data Science**  
-&nbsp;&nbsp;&nbsp;&nbsp;GPA: 4.0/4.0
+  *08/2023-06/2025*  
+  **MS – Machine Learning and Data Science**  
+  GPA: 4.0/4.0
 
 **Dalian University of Technology, Dalian, China**  
-&nbsp;&nbsp;&nbsp;&nbsp;*09/2018-07/2022*  
-&nbsp;&nbsp;&nbsp;&nbsp;**BS in Electronic Information Engineering**  
-&nbsp;&nbsp;&nbsp;&nbsp;GPA: 87/100
+  *09/2018-07/2022*  
+  **BS in Electronic Information Engineering**  
+  GPA: 87/100
 
 
 Selected Publications
