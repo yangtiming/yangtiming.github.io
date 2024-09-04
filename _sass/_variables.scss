@@ -20,6 +20,7 @@ $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
+$soft-font: 'Quicksand', 'Helvetica Neue', 'Arial';
 
 /* serif typefaces */
 $georgia                    : Georgia, serif;
@@ -28,7 +29,7 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
+$global-font-family         : $soft-font;
 $header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
 
