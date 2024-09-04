@@ -29,7 +29,7 @@ Prior to this, I earned my Bachelor of Science in Electronic Information Enginee
 
 Current Research Interest
 ======
-* 2D/3D scene understanding
+* 2D/3D scene understanding, Image Classification, self-supervised learning
 * Digital Image Processing
 
 Education
