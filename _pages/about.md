@@ -11,7 +11,15 @@ I am pursuing a Master of Science in Electrical and Computer Engineering (Machin
 
 Prior to this, I earned my Bachelor of Science in Electronic Information Engineering from [Dalian University of Technology](https://www.dlut.edu.cn), where I conducted research on few-shot learning under the supervision of [Prof. Peihua Li](https://www.peihuali.org), worked on underwater object detection in [IIAU-Lab](https://futureschool.dlut.edu.cn/IIAU.htm) under the supervision of [Prof. Dong Wang](https://scholar.google.com/citations?user=nVgPQpoAAAAJ&hl=en), researched video segmentation under the supervision of [Prof. Shenglan Liu](http://faculty.dlut.edu.cn/liushenglan/en/index.htm), and worked on image monitoring for the crystallization process under the supervision of [Prof. Tao Liu](http://act.dlut.edu.cn/English.htm). I also interned at [Panasonic Electrical Software Development (Dalian) Co. LTD](https://panasonic.cn/psdcd/).
 
-![](https://yangtiming.github.io/images/dlut.png)
+<p align="center">
+    <img src="https://yangtiming.github.io/images/dlut.png" alt="DLUT" width="150"/>
+    <img src="https://yangtiming.github.io/images/USC.png" alt="USC" width="150"/>
+    <img src="https://yangtiming.github.io/images/Tsinghua.png" alt="Tsinghua" width="150"/>
+    <img src="https://yangtiming.github.io/images/jhu.png" alt="JHU" width="150"/>
+    <img src="https://yangtiming.github.io/images/panasonic.png" alt="Panasonic" width="150"/>
+</p>
+
+
 
 
 
