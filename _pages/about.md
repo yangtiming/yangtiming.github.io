@@ -14,30 +14,28 @@ Prior to this, I earned my Bachelor of Science in Electronic Information Enginee
 
 EDUCATION
 ======
-
 **University of Southern California, Los Angeles, United States**  
-*08/2023-06/2025*  
-**Master of Science in ECE – Machine Learning and Data Science**  
-GPA: 4.0/4.0
+&nbsp;&nbsp;&nbsp;&nbsp;*08/2023-06/2025*  
+&nbsp;&nbsp;&nbsp;&nbsp;**MS – Machine Learning and Data Science**  
+&nbsp;&nbsp;&nbsp;&nbsp;GPA: 4.0/4.0
 
 **Dalian University of Technology, Dalian, China**  
-*09/2018-07/2022*  
-**Bachelor of Science in Electronic Information Engineering**  
-GPA: 87/100
+&nbsp;&nbsp;&nbsp;&nbsp;*09/2018-07/2022*  
+&nbsp;&nbsp;&nbsp;&nbsp;**BS in Electronic Information Engineering**  
+&nbsp;&nbsp;&nbsp;&nbsp;GPA: 87/100
+
 
 Selected Publications
 ======
-**Mask R-CNN based deep learning analysis on in-situ measured crystal images with automatic dataset labeling**  
-Chen J, Tao L, Yang T, et al.  
-41st Chinese Control Conference, 2022. (paper / data / code) Submitted to ISTP and EI.
+**Interpreting Mamba**  
+**Timing Yang**, [Feng Wang](https://wangf3014.github.io/home/), [Jieru Mei](https://meijieru.com), [Alan Yuille](https://www.cs.jhu.edu/~ayuille/).  
+*Target CVPR2025*
+[arxiv](#) / [code](#)
 
-**Optimized methods for online monitoring of L-Glutamic Acid Crystallization**  
-Yang T, Chen J, Qi Meng.  
-CONF-SPML 2021. (paper / data / code) Submitted to EI and CPCI.
-
-**Supervised Sliding Window Smoothing Loss Function Based On MS-TCN for Video Segmentation**  
-Yang T.  
-3rd CONF-CDS, 2021. (paper / data / code) Submitted to EI and Scopus.
+**Open Vocabulary 3D Object Detection**  
+**Timing Yang\***, [Yuanliang Ju\*](https://x.com/averyjuuu0213), [Li Yi](https://ericyi.github.io).  
+*Submitted to NeurIPS 2024*  
+[arxiv](#) / [code](#)
 
 
 
