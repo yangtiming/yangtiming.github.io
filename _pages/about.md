@@ -52,7 +52,8 @@ Publication/Current and Future submission
 *Target submission to CVPR 2025.* ([arxiv] / [code])
 
 * **Causal Image Modeling for Efficient Visual Understanding**  
-[Feng Wang](https://wangf3014.github.io/home/), **Timing Yang**,..., [Alan Yuille](https://www.cs.jhu.edu/~ayuille/), etc.  
+[Feng Wang](https://wangf3014.github.io/home/), **Timing Yang**, Yaodong Yu, Sucheng Ren, Guoyizhe Wei, Wei Shao, Yuyin Zhou, [Alan Yuille](https://www.cs.jhu.edu/~ayuille/), Cihang Xie
+  
 *Submitted to **ICLR 2025**.* ([arxiv] / [code])
 
 
