@@ -29,8 +29,10 @@ Prior to this, I earned my Bachelor of Science in Electronic Information Enginee
 
 Current Research Interest
 ======
-* 2D/3D Scene Understanding, Image Classification, Self-supervised Learning
-* Digital Image Processing
+* 2D/3D Scene Understanding(Object detection, Segmentation)
+* Transformer/Mamba for model interpreting.
+* Few-Shot Learning for classification
+* Video Action Segmentation
 
 Education
 ======
