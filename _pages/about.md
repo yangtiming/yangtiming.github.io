@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
---- 
+---
 
 I am pursuing a Master of Science in Electrical and Computer Engineering (Machine Learning and Data Science) at the [University of Southern California](https://viterbischool.usc.edu). I am conducting research on Mamba model at the [Computational Cognition, Vision, and Learning lab](https://ccvl.jhu.edu) at [Johns Hopkins University](https://www.jhu.edu), under the supervision of [Prof. Alan Yuille](https://www.cs.jhu.edu/~ayuille/). I previously worked on open-vocabulary 3D object detection at the [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn) at Tsinghua University with [Prof. Li Yi (Eric)](https://ericyi.github.io).
 
