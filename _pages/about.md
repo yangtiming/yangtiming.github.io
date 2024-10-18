@@ -53,7 +53,8 @@ Publication/Current and Future submission
 
 * **Causal Image Modeling for Efficient Visual Understanding**  
 [Feng Wang](https://wangf3014.github.io/home/), **Timing Yang**, Yaodong Yu, Sucheng Ren, Guoyizhe Wei, Wei Shao, Yuyin Zhou, [Alan Yuille](https://www.cs.jhu.edu/~ayuille/), Cihang Xie.  
-*Submitted to **ICLR 2025**.* ([arxiv] / [code]) 
+*Submitted to **ICLR 2025**.* ([arxiv](https://arxiv.org/pdf/2405.14858.pdf) / [code](https://github.com/wangf3014/Mamba-Reg)) 
+
 
 
 * **Open Vocabulary 3D Object Detection**  
