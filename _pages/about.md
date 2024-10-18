@@ -66,7 +66,7 @@ Publication/Current and Future submission
 </div>
 
 
-* **Open Vocabulary 3D Object Detection**  
+* **ImOV3D: Learning Open-Vocabulary Point Clouds 3D Object Detection from Only 2D Images**  
 **Timing Yang\***, [Yuanliang Ju\*](https://x.com/averyjuuu0213), [Li Yi](https://ericyi.github.io).  
 *Accepted by **NeurIPS 2024**.* ([arxiv] / [code])
 
