@@ -47,18 +47,18 @@ Education
 
 Publication/Current and Future submission
 ======
-* **Interpreting Mamba**  
-**Timing Yang**, [Feng Wang](https://wangf3014.github.io/home/), [Jieru Mei](https://meijieru.com), [Alan Yuille](https://www.cs.jhu.edu/~ayuille/).  
-*Target submission to CVPR 2025.* ([arxiv] / [code])
+* **RNN as Linear Transformer: A Closer Investigation into Representational Potentials of Visual Mamba Models**  
+**Timing Yang**, [Feng Wang](https://wangf3014.github.io/home/), Guoyizhe Wei, [Alan Yuille](https://www.cs.jhu.edu/~ayuille/).  
+*under review* ([arxiv] / [code])
 
 * **Causal Image Modeling for Efficient Visual Understanding**  
 [Feng Wang](https://wangf3014.github.io/home/), **Timing Yang**, Yaodong Yu, Sucheng Ren, Guoyizhe Wei, Wei Shao, Yuyin Zhou, [Alan Yuille](https://www.cs.jhu.edu/~ayuille/), Cihang Xie.  
-*Submitted to **ICLR 2025**.* ([arxiv](https://arxiv.org/pdf/2405.14858.pdf) / [code](https://github.com/wangf3014/Mamba-Reg)) 
+*Accepted by **CVPR 2025**.* ([arxiv](https://arxiv.org/pdf/2405.14858.pdf) / [code](https://github.com/wangf3014/Mamba-Reg)) 
 
 
 * **ImOV3D: Learning Open-Vocabulary Point Clouds 3D Object Detection from Only 2D Images**  
 **Timing Yang\***, [Yuanliang Ju\*](https://x.com/averyjuuu0213), [Li Yi](https://ericyi.github.io).  
-*Accepted by **NeurIPS 2024**.* ([arxiv] / [code])
+*Accepted by **NeurIPS 2024**.* ([arxiv](https://arxiv.org/pdf/2410.24001v1) / [code](https://github.com/yangtiming/ImOV3D))
 
 
 
