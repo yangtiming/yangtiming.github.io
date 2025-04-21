@@ -53,7 +53,7 @@ Publication/Current and Future submission
 
 * **Causal Image Modeling for Efficient Visual Understanding**  
 [Feng Wang](https://wangf3014.github.io/home/), **Timing Yang**, Yaodong Yu, Sucheng Ren, Guoyizhe Wei, Wei Shao, Yuyin Zhou, [Alan Yuille](https://www.cs.jhu.edu/~ayuille/), Cihang Xie.  
-*Accepted by **CVPR 2025**.* ([arxiv](https://arxiv.org/pdf/2405.14858.pdf) / [code](https://github.com/wangf3014/Mamba-Reg)) 
+*Accepted by **CVPR 2025**.* ([arxiv](https://arxiv.org/pdf/2410.07599) / [code](https://github.com/wangf3014/Adventurer)) 
 
 
 * **ImOV3D: Learning Open-Vocabulary Point Clouds 3D Object Detection from Only 2D Images**  
