@@ -7,16 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-I am pursuing a Master of Science in Electrical and Computer Engineering (Machine Learning and Data Science) at the [University of Southern California](https://viterbischool.usc.edu). I am conducting research on Mamba model at the [Computational Cognition, Vision, and Learning lab](https://ccvl.jhu.edu) at [Johns Hopkins University](https://www.jhu.edu), under the supervision of [Prof. Alan Yuille](https://www.cs.jhu.edu/~ayuille/). I previously worked on open-vocabulary 3D object detection at the [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn) at Tsinghua University with [Prof. Li Yi (Eric)](https://ericyi.github.io).
 
-Prior to this, I earned my Bachelor of Science in Electronic Information Engineering from [Dalian University of Technology](https://www.dlut.edu.cn), where I conducted research on few-shot learning under the supervision of [Prof. Peihua Li](https://www.peihuali.org), worked on underwater object detection in [IIAU-Lab](https://futureschool.dlut.edu.cn/IIAU.htm) under the supervision of [Prof. Dong Wang](https://scholar.google.com/citations?user=nVgPQpoAAAAJ&hl=en), researched video segmentation under the supervision of [Prof. Shenglan Liu](http://faculty.dlut.edu.cn/liushenglan/en/index.htm), and worked on image monitoring for the crystallization process under the supervision of [Prof. Tao Liu](http://act.dlut.edu.cn/English.htm). I also interned at [Panasonic Electrical Software Development (Dalian) Co. LTD](https://panasonic.cn/psdcd/).
+I am an incoming Ph.D. student at [Johns Hopkins University](https://www.jhu.edu), advised by [Prof. Alan Yuille](https://www.cs.jhu.edu/~ayuille/) at the [Computational Cognition, Vision, and Learning lab (CCVL)](https://ccvl.jhu.edu). My research focuses on (medical) computer vision.
 
-📢 <span style="color:red">***I am currently seeking a PhD position for Fall 2025***</span>
+I received my M.S. in ECE (Machine Learning and Data Science) from the [University of Southern California](https://viterbischool.usc.edu) in 2025, where I also worked on Robotics and VLA research with [Prof. Yue Wang](https://yuewang.xyz/). I also collaborate with [Mayo Clinic](https://www.mayoclinic.org/) on Medical Pathology research with [Dr. Jansen N Seheult](https://www.mayo.edu/research/faculty/seheult-jansen-n-m-d/bio-20538697).
 
-📮Email:(timingya@usc.edu);
+Previously, I worked on open-vocabulary 3D object detection at the [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn) at Tsinghua University with [Prof. Li Yi (Eric)](https://ericyi.github.io). I earned my B.S. in Electronic Information Engineering from [Dalian University of Technology](https://www.dlut.edu.cn).
+
+📮Email:(timingya@jhu.edu);
 🛰️[wechat](https://yangtiming.github.io/images/wechat.png)
 
 
+
+<!--
+I am pursuing a Master of Science in Electrical and Computer Engineering (Machine Learning and Data Science) at the [University of Southern California](https://viterbischool.usc.edu). I am conducting research on Mamba model at the [Computational Cognition, Vision, and Learning lab](https://ccvl.jhu.edu) at [Johns Hopkins University](https://www.jhu.edu), under the supervision of [Prof. Alan Yuille](https://www.cs.jhu.edu/~ayuille/). I previously worked on open-vocabulary 3D object detection at the [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn) at Tsinghua University with [Prof. Li Yi (Eric)](https://ericyi.github.io).
+Prior to this, I earned my Bachelor of Science in Electronic Information Engineering from [Dalian University of Technology](https://www.dlut.edu.cn), where I conducted research on few-shot learning under the supervision of [Prof. Peihua Li](https://www.peihuali.org), worked on underwater object detection in [IIAU-Lab](https://futureschool.dlut.edu.cn/IIAU.htm) under the supervision of [Prof. Dong Wang](https://scholar.google.com/citations?user=nVgPQpoAAAAJ&hl=en), researched video segmentation under the supervision of [Prof. Shenglan Liu](http://faculty.dlut.edu.cn/liushenglan/en/index.htm), and worked on image monitoring for the crystallization process under the supervision of [Prof. Tao Liu](http://act.dlut.edu.cn/English.htm). I also interned at [Panasonic Electrical Software Development (Dalian) Co. LTD](https://panasonic.cn/psdcd/).
+📢 ***I am currently seeking a PhD position for Fall 2025***
+📮Email:(timingya@usc.edu);
+🛰️[wechat](https://yangtiming.github.io/images/wechat.png)
+-->
 
 
 <p align="center">
