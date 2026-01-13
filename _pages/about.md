@@ -14,7 +14,7 @@ I received my M.S. in ECE (Machine Learning and Data Science) from the [Universi
 
 Previously, I worked on open-vocabulary 3D object detection at the [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn) at Tsinghua University with [Prof. Li Yi (Eric)](https://ericyi.github.io). I earned my B.S. in Electronic Information Engineering from [Dalian University of Technology](https://www.dlut.edu.cn).
 
-📮Email:(timingya@jhu.edu);
+📮Email:(timingya@usc.edu);
 🛰️[wechat](https://yangtiming.github.io/images/wechat.png)
 
 
