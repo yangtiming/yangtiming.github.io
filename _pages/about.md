@@ -38,16 +38,14 @@ Prior to this, I earned my Bachelor of Science in Electronic Information Enginee
 
 Current Research Interest
 ======
-* 2D/3D Scene Understanding(Object detection, Segmentation)
-* Transformer/Mamba for model interpreting.
-* Few-Shot Learning for classification
-* Video Action Segmentation
+* (medical) Computer Vision
+* Robotics
 
 Education
 ======
 * **(MS)University of Southern California, Los Angeles, United States**  
   *08/2023-06/2025*  
-  GPA: 4.0/4.0
+  GPA: 3.92/4.0
 
 * **(BS)Dalian University of Technology, Dalian, China**  
   *09/2018-07/2022*  
