@@ -61,7 +61,7 @@ Publication/Current and Future submission
 
 * **RNN as Linear Transformer: A Closer Investigation into Representational Potentials of Visual Mamba Models**  
 **Timing Yang**, Guoyizhe Wei, [Alan Yuille](https://www.cs.jhu.edu/~ayuille/), [Feng Wang](https://wangf3014.github.io/home/).  
-*Accepted by **CVPR 2026**. ([arxiv](https://arxiv.org/pdf/2511.18380) / [code](https://github.com/yangtiming/Dino-Mamba))
+*Accepted by **CVPR 2026**.* ([arxiv](https://arxiv.org/pdf/2511.18380) / [code](https://github.com/yangtiming/Dino-Mamba))
 
 * **Causal Image Modeling for Efficient Visual Understanding**  
 [Feng Wang](https://wangf3014.github.io/home/), **Timing Yang**, Yaodong Yu, Sucheng Ren, Guoyizhe Wei, Wei Shao, Yuyin Zhou, [Alan Yuille](https://www.cs.jhu.edu/~ayuille/), Cihang Xie.  
