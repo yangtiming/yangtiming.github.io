@@ -54,9 +54,14 @@ Education
 
 Publication/Current and Future submission
 ======
+* **ViMix-14M: A Curated Multi-Source Video–Text Dataset with Long-Form, High-Quality Captions and Crawl-Free Access**  
+**Timing Yang**, [Sucheng Ren](https://oliverrensu.github.io), [Alan Yuille](https://www.cs.jhu.edu/~ayuille/), [Feng Wang](https://wangf3014.github.io/home/).  
+*under review*. ([arxiv](https://arxiv.org/pdf/2511.18382) / [code](https://github.com/yangtiming/ViMix-14M))
+
+
 * **RNN as Linear Transformer: A Closer Investigation into Representational Potentials of Visual Mamba Models**  
-**Timing Yang**, [Feng Wang](https://wangf3014.github.io/home/), Guoyizhe Wei, [Alan Yuille](https://www.cs.jhu.edu/~ayuille/).  
-*under review* ([arxiv] / [code])
+**Timing Yang**, Guoyizhe Wei, [Alan Yuille](https://www.cs.jhu.edu/~ayuille/), [Feng Wang](https://wangf3014.github.io/home/).  
+*Accepted by **CVPR 2026**. ([arxiv](https://arxiv.org/pdf/2511.18380) / [code](https://github.com/yangtiming/Dino-Mamba))
 
 * **Causal Image Modeling for Efficient Visual Understanding**  
 [Feng Wang](https://wangf3014.github.io/home/), **Timing Yang**, Yaodong Yu, Sucheng Ren, Guoyizhe Wei, Wei Shao, Yuyin Zhou, [Alan Yuille](https://www.cs.jhu.edu/~ayuille/), Cihang Xie.  
