@@ -34,6 +34,7 @@ Prior to this, I earned my Bachelor of Science in Electronic Information Enginee
     <img src="https://yangtiming.github.io/images/Tsinghua.png" alt="Tsinghua" width="150"/>
     <img src="https://yangtiming.github.io/images/jhu.png" alt="JHU" width="150"/>
     <img src="https://yangtiming.github.io/images/panasonic.png" alt="Panasonic" width="150"/>
+    <img src="https://yangtiming.github.io/images/mayoclinc.png" alt="mayoclinc" width="150"/>
 </p>
 
 Current Research Interest
