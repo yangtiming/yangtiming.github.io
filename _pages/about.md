@@ -55,6 +55,12 @@ Education
 
 Publication/Current and Future submission
 ======
+
+* **Fast SAM 3D Body: Accelerating SAM 3D Body for Real-Time Full-Body Human Mesh Recovery**  
+**Timing Yang**, [Sicheng He](https://hesicheng.net), [Hongyi Jing](https://hongyijing.me), [Jiawei Yang](https://jiawei-yang.github.io), [Zhijian Liu](https://zhijianliu.com), [Chuhang Zou](https://zouchuhang.github.io)†, [Yue Wang](https://yuewang.xyz)†.  
+*under review*. ([arxiv](https://arxiv.org/pdf/2603.15603) / [code](https://github.com/yangtiming/Fast-SAM-3D-Body))
+
+
 * **ViMix-14M: A Curated Multi-Source Video–Text Dataset with Long-Form, High-Quality Captions and Crawl-Free Access**  
 **Timing Yang**, [Sucheng Ren](https://oliverrensu.github.io), [Alan Yuille](https://www.cs.jhu.edu/~ayuille/), [Feng Wang](https://wangf3014.github.io/home/).  
 *under review*. ([arxiv](https://arxiv.org/pdf/2511.18382) / [code](https://github.com/yangtiming/ViMix-14M))
