@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am an incoming Ph.D. student at [Johns Hopkins University](https://www.jhu.edu), advised by [Prof. Alan Yuille](https://www.cs.jhu.edu/~ayuille/) at the [Computational Cognition, Vision, and Learning lab (CCVL)](https://ccvl.jhu.edu). My research focuses on (medical) computer vision.
+I am a Ph.D. student at [Johns Hopkins University](https://www.jhu.edu), advised by [Prof. Alan Yuille](https://www.cs.jhu.edu/~ayuille/) at the [Computational Cognition, Vision, and Learning lab (CCVL)](https://ccvl.jhu.edu). My research focuses on (medical) computer vision.
 
 I received my M.S. in ECE (Machine Learning and Data Science) from the [University of Southern California](https://viterbischool.usc.edu) in 2025, where I also worked on Robotics and VLA research with [Prof. Yue Wang](https://yuewang.xyz/). I also collaborate with [Mayo Clinic](https://www.mayoclinic.org/) on Medical Pathology research with [Dr. Jansen N Seheult](https://www.mayo.edu/research/faculty/seheult-jansen-n-m-d/bio-20538697).
 
