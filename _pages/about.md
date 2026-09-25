@@ -45,7 +45,7 @@ Current Research Interest
 Education
 ======
 * **(PhD)Johns Hopkins University, Baltimore, United States**  
-  *08/2025-Present*  
+  *01/2026-Present*  
   Advisor: [Prof. Alan Yuille](https://www.cs.jhu.edu/~ayuille/)
 
 * **(MS)University of Southern California, Los Angeles, United States**  
